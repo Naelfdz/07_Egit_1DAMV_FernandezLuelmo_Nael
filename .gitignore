@@ -1,0 +1,15 @@
+# Archivos compilados
+*.class
+/bin/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Configuracion personal de Eclipse
+.settings/
+.metadata/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
